@@ -33,6 +33,6 @@ public class Main {
             String str2 = objects2[i];
             str += str2.charAt(2);
         }
-        return str;
+            return str;
     }
 }

@@ -26,6 +26,6 @@ public class Person {
         for (String obj : objects) {
             System.out.println(String.format("Le prime 3 lettere sono: %s", obj.substring(0,2)));
         }
-
-    }}
+    }
+}
 
